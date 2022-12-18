@@ -54,7 +54,7 @@ while not exit:
         pygame.display.flip()
 
         # see above: screen_update = pygame.time.Clock()
-        # set the limit to 60 frames per second
+        # set upper the limit to 60 frames per second
         screen_update.tick(60)
         # however, it is not necessary
         # in this example
