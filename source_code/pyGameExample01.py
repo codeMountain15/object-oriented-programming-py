@@ -16,6 +16,7 @@ WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
 RED = (255, 0, 0)
 
+# power up the pygame library
 pygame.init()
 
 # Set the window dimensions [width, height]
@@ -49,7 +50,7 @@ while not exit:
         if keys[pygame.K_DOWN]:
             screen.fill(WHITE)
 
-        # update window with what drew
+        # update window with what we drew
         pygame.display.flip()
 
         # see above: screen_update = pygame.time.Clock()
