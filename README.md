@@ -2,8 +2,7 @@
 ## Python edition
 
 - [ ] Εισαγωγή στην γλώσσα προγραμματισμού Python
-- [ ] Έννοιες Αντικειμενοστραφούς προγραμματισμού με Python
-
+- [ ] Κλάσεις
 
 ## Πηγές
 * [docs.python.org](https://docs.python.org/3/tutorial/)
