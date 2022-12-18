@@ -59,5 +59,5 @@ while not exit:
         # however, it is not necessary
         # in this example
 
-# Close the window and exit
+# Close the window
 pygame.quit()
