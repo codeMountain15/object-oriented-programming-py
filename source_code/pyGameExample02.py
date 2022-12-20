@@ -50,7 +50,7 @@ while not exit:
     # create a blue message on the surface of the font object
     # the font color is stored in the nextColor variable
     # antialias is True, so the characters will have smooth edges
-    message = fontObject.render('Fon\'t forget to submit the WnV project!', True, nextColor)
+    message = fontObject.render('Don\'t forget to submit the WnV project!', True, nextColor)
  
     # create a rectangular object for the
     # text surface object
