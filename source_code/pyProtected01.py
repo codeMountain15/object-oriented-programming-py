@@ -33,7 +33,7 @@ class Gourouni(Animal):
 	# public member function
 	def displayDetails(self):
 		# accessing inherited member method
-		self. _showInfo(self)
+		self._showInfo(self)
 				
 
 obj01 = Gourouni("Dj", 60, 0.5)
