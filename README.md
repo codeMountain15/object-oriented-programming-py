@@ -3,6 +3,8 @@
 
 - [ ] Εισαγωγή στην γλώσσα προγραμματισμού Python
 - [ ] Κλάσεις
+- [ ] Κληρονομικότητα
+- [ ] Access modifiers
 
 ## Πηγές
 * [docs.python.org](https://docs.python.org/3/tutorial/)
