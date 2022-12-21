@@ -2,7 +2,7 @@
 
 class Animal:
 	
-	# protected attributes (data members)
+	# private attributes (data members)
 	__name = None
 	__weight = None
 	__height = None
