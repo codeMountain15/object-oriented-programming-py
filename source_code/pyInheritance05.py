@@ -1,4 +1,4 @@
-# pyClasses05.py
+# pyInheritance05.py
 #
 
 class Dog():
