@@ -5,6 +5,7 @@
 - [ ] Κλάσεις
 - [ ] Κληρονομικότητα
 - [ ] Access modifiers
+- [ ] Διαχείριση αρχείων
 
 ## Πηγές
 * [docs.python.org](https://docs.python.org/3/tutorial/)
